@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project Nightmare", "Project Nightmare.csproj", "{00173B12-2592-CA90-CA08-EDDEE8AB2EA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project Nightmare.Editor", "Project Nightmare.Editor.csproj", "{B558B09E-99EF-8EAE-4833-02909A9A125D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00173B12-2592-CA90-CA08-EDDEE8AB2EA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00173B12-2592-CA90-CA08-EDDEE8AB2EA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00173B12-2592-CA90-CA08-EDDEE8AB2EA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00173B12-2592-CA90-CA08-EDDEE8AB2EA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B558B09E-99EF-8EAE-4833-02909A9A125D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B558B09E-99EF-8EAE-4833-02909A9A125D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B558B09E-99EF-8EAE-4833-02909A9A125D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B558B09E-99EF-8EAE-4833-02909A9A125D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
